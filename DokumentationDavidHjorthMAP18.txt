@@ -1,0 +1,35 @@
+David Hjorth
+MAP18
+
+
+
+Dokumentation - Modehuset fLuX
+
+Jag började Modehuset fLuX med att välja ut färger(jag valde färgen grön eftersom det representerar välstånd och min persona är miljömedveten och fLuX jobbar med eko-råvaror).
+Sedan lekte jag lite med rektanglar och ändrade deras opacity tills jag fick en schysst bakgrund att stå på. När det var klart så la jag det lite på hyllan och 
+fokuserade på själva strukturen, jag följde wireframen och allting flöt på väldigt bra tills jag kom till kundvagnsikonen, den fick jag inte till så jag kopierade den
+från en hemsida, jag kopierade även några av "hemmobilskärmens" ikoner (batteri, bluetooth och alarmet). Sedan gjorde jag alla plagg och la in bilder. Det jag tyckte var
+lite krångligt, eller tog mycket tid rättare sagt var alla sidor som behövdes för att visa att lägga till eller ta bort från kundvagnen. Det tog ganska lång tid 
+att få till snyggt. För att det inte skulle bli 40+ mobilskärmar så funkar bara vissa knappar i kundkorgen, man ser om man går in på Prototype. Samma sak gäller för
+produktinfo, det är bara skon som fungerar. När uppgiften ändrades så fick jag tänka om lite och gjorde en ny startsida som har en bakgrundsbild som jag gjorde till
+en oljemålning med samma tema med rektanglar med xx% opacity som dom andra sidorna. Tanken är att den sidan bara visas när själva appen öppnas, där finns alla 
+knappar som finns i webbshoppen. Jag provade att lägga till en bild bakom själva webbshoppen men det blev verkligen inte bra enligt mig, så jag körde på att göra en
+ny startsida! Sista jag gjorde var "Om fLuX", "Designers" och "Kontakt" och kassan. I Kontakt så la jag till telefonluren som man kan trycka på för att det ska kännas
+som man är på sin mobil. I kassan la jag till knappar till faktura / kortbetalning så sidan ändras beroende på hur man vill betala.
+ Jag valde enkla typsnitt som såg stilrena ut förutom för Modehuset fLuX då jag tyckte det såg lite vågat ut och stack ut.
+
+
+Dokumentation - Ljuva Livet
+
+Jag tyckte att Ljuva Livet var mycket enklare att genomföra, det kan bero på att det är andra appen jag gör eller att jag valde att göra den ganska simpel för att målgruppen
+är äldre personer och då är jag lite fördomsfull och tänker att alla inte är teknikbegåvade. Jag gjorde den som sagt simpel med stora knappar och valde färgen röd som 
+symboliserar kärleken. Bakgrundsbilden tyckte jag passade väldigt bra, den var ganska mörk innan så jag gjorde den ljusare och la på glow, nu lyser kärleken!
+Ljuva Livets logga designade jag själv på wireframen och nu fick den liv i prototypen, blev väldigt nöjd med den.
+Jag körde lite samma tema med retanglar som bakgrund med olika färger och opacity. Här valde jag tydliga typsnitt som är lättlästa.
+
+
+
+
+
+Sjukt kul uppgift som jag blev lite halvt tokigt på till och från! 
+Eftersom jag råkade deleta min förra dokumentation så får du gärna fråga hur jag tänkt om det är något jag missat nu!
